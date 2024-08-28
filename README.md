@@ -1,6 +1,6 @@
-# trial_chat
+# echo_link
 
-A new Flutter project.
+A Flutter Chat App Project
 
 ## Getting Started
 
